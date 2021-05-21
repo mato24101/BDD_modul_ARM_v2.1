@@ -1,0 +1,15 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:51:41 On 29. 9. 2020
+
+Output: Copy of Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of PCB Document [BDD_modul_ARM_v2.2_PCB.PcbDoc]
+   Generated File[Copy of Bill of Materials-BDD_modul_ARM_v2.2_PCB.xls]
+   Generated File[Copy of Bill of Materials-BDD_modul_ARM_v2.2_PCB.xls]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 10:51:43 On 29. 9. 2020
